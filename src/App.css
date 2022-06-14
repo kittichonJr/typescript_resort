@@ -1,4 +1,14 @@
 @import './components/navbar/Navbar.css';
+@import './components/Banner/Banner.css';
+@import './components/Hero/Hero.css';
+@import './components/Title/Ttitle.css';
+@import './components/Service/Service.css';
+@import './components/FeaturedRooms/FeaturedRooms.css';
+@import './components/Loading/Loading.css';
+@import './components/Room/Room.css';
+@import './page/SingleRoom/SingleRoom.css';
+@import './components/RoomList/RoomList.css';
+@import './components/RoomFilter/RoomFilter.css';
 
 *,::after,::before{
     margin: 0;
